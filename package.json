@@ -1,0 +1,31 @@
+{
+  "name": "mtwebjs",
+  "version": "0.0.1",
+  "description": "A javascript based MT web project",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUMT-IT/mtwebjs.git"
+  },
+  "keywords": [
+    "MT"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MUMT-IT/mtwebjs/issues"
+  },
+  "homepage": "https://github.com/MUMT-IT/mtwebjs#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express3-handlebars": "^0.5.2",
+    "formidable": "^1.0.17"
+  }
+}
